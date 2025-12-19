@@ -144,8 +144,6 @@ export function BackgroundRemover() {
 
       <footer className="border-2 border-foreground p-3 text-xs uppercase tracking-wider text-muted-foreground">
         <span>STATUS: {loading ? "RUNNING" : "IDLE"}</span>
-        <span className="mx-2">|</span>
-        <span>MODE: CLIENT_SIDE</span>
       </footer>
     </div>
   )
