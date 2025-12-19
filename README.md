@@ -1,6 +1,3 @@
-no bs image background removing done right , locally, for free
-also if you like it a star would be awesome :3
-
 ## How to Use
 
 ### Prerequisites
